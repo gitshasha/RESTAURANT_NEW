@@ -1,0 +1,13 @@
+.fullfoodoptioncont {
+  display: flex;
+}
+.allfoods {
+  overflow-y: scroll;
+  height: 85vh;
+}
+.allfoods::-webkit-scrollbar {
+  display: none;
+}
+.addnew {
+  background-color: aqua;
+}

@@ -1,0 +1,13 @@
+.venbox{
+    height: 20vh;
+    width: 20vw;
+    background-color: blue;
+    margin: 10vh;
+}
+.restimage img{
+    height: 10vh;
+    width: 20vw;
+    object-fit: cover;
+
+
+}

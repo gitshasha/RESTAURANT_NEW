@@ -1,0 +1,20 @@
+.sidenavigation {
+  height: 90vh;
+  width: 15vw;
+  background-color: rgb(27, 37, 37);
+  display: flex;
+  flex-direction: column;
+}
+.opt {
+  height: 10vh;
+  width: 100%;
+  text-align: center;
+  border: 1px solid red;
+  color: white;
+}
+.restaurantcontainer {
+  display: flex;
+  position: fixed;
+  top: 10vh;
+  left: 0vh;
+}

@@ -1,0 +1,16 @@
+.Login{
+    height: 90vh;
+    width: 100vw;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.restaurant,.coustomer{
+    height: 80vh;
+    width: 40vw;
+    background-color: blueviolet;
+    
+}

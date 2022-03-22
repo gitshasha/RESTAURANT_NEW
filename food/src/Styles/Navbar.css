@@ -1,0 +1,24 @@
+.navbar {
+  height: 10vh;
+  width: 100vw;
+  background-color: aqua;
+  display: flex;
+  align-items: center;
+}
+.title {
+  display: flex;
+  width: 25vh;
+  justify-content: space-around;
+  margin-left: 10vh;
+
+  align-items: center;
+}
+.titlename {
+  font-weight: 400;
+}
+.image {
+  height: 5vh;
+  width: 5vh;
+  border-radius: 50%;
+  background-color: rgb(250, 255, 255);
+}
